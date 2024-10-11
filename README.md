@@ -1,5 +1,6 @@
 # 🌊 Ocean
 Welcome to the official repository of Ocean, an application that simplifies crypto mining and allows anyone to start a miner in Finland with a few commands.
+### [Download](https://github.com/TheShark-lol/ocean/archive/refs/heads/prod.zip) · [Documentation](https://ocean.theshark.lol)
 
 ## How does it work??? Isnt that scam?
 We have been operating our own GPU racks in the Netherlands and Finland for several years. Like any business, there are fluctuations—some months one or two GPUs may generate a negative return, while other months show positive results. That's the nature of the operation.
